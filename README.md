@@ -1,2 +1,2 @@
 # git-test2
-dops and aws
+devops and aws
